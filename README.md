@@ -111,8 +111,7 @@
         alt="nftushar" /> &nbsp;
     <img
         align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nftushar&show_icons=true&locale=en&layout=compact"
-                alt="nftushar"  width="100%" height="40"/>
-           
+                alt="nftushar" />
 </p>
  
 

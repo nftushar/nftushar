@@ -106,8 +106,8 @@
     <img  
          align="right" src="https://github-readme-streak-stats.herokuapp.com?user=NF%20Tushar&theme=gotham&border_radius=20&date_format=j%20M%5B%20Y%5D"
         alt="nftushar" />
-    <img 
-      align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=nftushar&show_icons=true&locale=en&layout=compact"
+     <img
+        align="right" src="https://github-readme-stats.vercel.app/api?username=nftushar&show_icons=true&locale=en"
         alt="nftushar" /> 
            
 </p>

@@ -1,6 +1,3 @@
-I have corrected the alignment of the width attribute in the image tag. Here's the updated code:
-
-```markdown
 ![logo](https://github.com/nftushar/nftushar/blob/main/1685026768807.jpeg)
 
 <h1 align="center">Hi 👋, I'm Nafish Fuad Tushar</h1>
@@ -65,4 +62,3 @@ right" src="https://github-readme-stats.vercel.app/api?username=nftushar&show_ic
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nftushar&show_icons=true&locale=en&layout=compact" alt="nftushar" />
 </p>
-```

@@ -64,19 +64,9 @@
 
 ---
 ### Numbers
-<p align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=NF%20Tushar&theme=gotham&border_radius=20&date_format=j%20M%5B%20Y%5D" alt="nftushar" />
-</p>
+![nftushar's Streak](https://github-readme-streak-stats.herokuapp.com?user=NF%20Tushar&theme=gotham&border_radius=20&date_format=j%20M%5B%20Y%5D)
 
-<br />
+![nftushar's Stats](https://github-readme-stats.vercel.app/api?username=nftushar&show_icons=true&locale=en)
 
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=nftushar&show_icons=true&locale=en" alt="nftushar" /> &nbsp;
-</p>
-
-<br />
-
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nftushar&show_icons=true&locale=en&layout=compact" alt="nftushar" />
-</p>
+![nftushar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nftushar&show_icons=true&locale=en&layout=compact)
 

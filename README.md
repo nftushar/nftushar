@@ -1,4 +1,4 @@
-make it biautiful: ![logo](https://github.com/nftushar/nftushar/blob/main/1685026768807.jpeg)
+![logo](https://github.com/nftushar/nftushar/blob/main/1685026768807.jpeg)
 <h1 align="center">Hi 👋, I'm Nafish Fuad Tushar</h1>
 <h3 align="center">A passionate WordPress developer from Bangladesh</h3>
 
@@ -119,4 +119,3 @@ make it biautiful: ![logo](https://github.com/nftushar/nftushar/blob/main/168502
                 alt="nftushar" />
 </p>
  
-

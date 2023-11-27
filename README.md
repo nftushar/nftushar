@@ -63,16 +63,9 @@
 </p>
 
 ---
+### Numbers
+![nftushart's Stats](https://github-readme-stats.vercel.app/api?username=nftushart&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
-<p>
-    <img  align="right" src="https://github-readme-streak-stats.herokuapp.com?user=NF%20Tushar&theme=gotham&border_radius=20&date_format=j%20M%5B%20Y%5D"
-        alt="nftushar" /> </p> </br> 
-        <p>
-            <p>
-     <img  align="right" src="https://github-readme-stats.vercel.app/api?username=nftushar&show_icons=true&locale=en"
-        alt="nftushar" /> &nbsp; 
-        </p> </br>
-        <p>
-    <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nftushar&show_icons=true&locale=en&layout=compact"
-                alt="nftushar" />
-</p>
+![nftushart's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nftushart&theme=darcula&hide_border=true)
+
+![nftushart's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nftushart&theme=darcula&show_icons=true&hide_border=true&layout=compact)
